@@ -1,0 +1,1 @@
+# CFD-and-ANN-for-fixing-angle-optimisation-of-a-Darrieus-vertical-axis-wind-turbine
