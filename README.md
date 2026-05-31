@@ -80,3 +80,8 @@ If you use this code, please cite the paper:
 ## License
 
 Released under the MIT License (or another license of your choice).
+## 💾 Cite the code / data
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20479467.svg)](https://doi.org/10.5281/zenodo.20479467)
+
+This repository is archived on Zenodo. If you use the code or dataset, please cite both the paper (above) and this DOI: **10.5281/zenodo.20479467**
