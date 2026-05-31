@@ -1,6 +1,11 @@
 cff-version: 1.2.0
-message: "If you use this software or the associated data, please cite the paper below."
+message: "If you use this software or the associated data, please cite the paper below. The code/data archive itself has DOI 10.5281/zenodo.20479467."
 title: "CFD–ANN Surrogate Modelling for Fixing-Angle Optimisation of a Darrieus VAWT"
+doi: "10.5281/zenodo.20479467"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.20479467"
+    description: "Zenodo archive of the code and data"
 authors:
   - family-names: "Tamaddon"
     given-names: "Amir"
