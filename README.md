@@ -72,6 +72,10 @@ If you use this code, please cite the paper:
   doi     = {10.1080/19942060.2026.2654918}
 }
 ```
+## ▶️ View / run the notebook
+
+[![View in nbviewer](https://img.shields.io/badge/view-nbviewer-orange)](https://nbviewer.org/github/TMDN-NEW/CFD-and-ANN-for-fixing-angle-optimisation-of-a-Darrieus-vertical-axis-wind-turbi/blob/main/ANN_surrogate_model.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TMDN-NEW/CFD-and-ANN-for-fixing-angle-optimisation-of-a-Darrieus-vertical-axis-wind-turbi/blob/main/ANN_surrogate_model.ipynb)
 
 ## License
 
