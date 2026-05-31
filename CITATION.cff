@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+message: "If you use this software or the associated data, please cite the paper below."
+title: "CFD–ANN Surrogate Modelling for Fixing-Angle Optimisation of a Darrieus VAWT"
+authors:
+  - family-names: "Tamaddon"
+    given-names: "Amir"
+    orcid: "https://orcid.org/0009-0001-1468-1711"
+  - family-names: "Mohin"
+    given-names: "Ma"
+    orcid: "https://orcid.org/0000-0003-2240-464X"
+  - family-names: "Mogul"
+    given-names: "Yakub Iqbal"
+    orcid: "https://orcid.org/0000-0001-6649-3627"
+  - family-names: "Quadros"
+    given-names: "Jaimon Dennis"
+    orcid: "https://orcid.org/0000-0002-5848-3389"
+  - family-names: "Ndiaye"
+    given-names: "Mamadou"
+    orcid: "https://orcid.org/0000-0002-4465-2081"
+preferred-citation:
+  type: article
+  title: "CFD and ANN surrogate modelling for fixing angle optimisation of a Darrieus vertical axis wind turbine"
+  authors:
+    - family-names: "Tamaddon"
+      given-names: "Amir"
+      orcid: "https://orcid.org/0009-0001-1468-1711"
+    - family-names: "Mohin"
+      given-names: "Ma"
+      orcid: "https://orcid.org/0000-0003-2240-464X"
+    - family-names: "Mogul"
+      given-names: "Yakub Iqbal"
+      orcid: "https://orcid.org/0000-0001-6649-3627"
+    - family-names: "Quadros"
+      given-names: "Jaimon Dennis"
+      orcid: "https://orcid.org/0000-0002-5848-3389"
+    - family-names: "Ndiaye"
+      given-names: "Mamadou"
+      orcid: "https://orcid.org/0000-0002-4465-2081"
+  journal: "Engineering Applications of Computational Fluid Mechanics"
+  year: 2026
+  volume: 20
+  issue: 1
+  start: 2654918
+  doi: "10.1080/19942060.2026.2654918"
+  publisher:
+    name: "Taylor & Francis"
